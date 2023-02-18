@@ -1,0 +1,4 @@
+ls
+cat spaces\ in\ this\ filename
+ssh -p 2220 bandit3@bandit.labs.overthewire.org
+passwd=aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
