@@ -1,4 +1,2 @@
-ls
-cat readme
 ssh -p 2220 bandit1@bandit.labs.overthewire.org
 passwd=NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
