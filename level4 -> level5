@@ -1,2 +1,2 @@
-ls
-cd inhere
+ssh -p 2220 bandit5@bandit.labs.overthewire.org
+passwd=lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
