@@ -1,4 +1,2 @@
-ls
-cat ./-
 ssh -p 2220 bandit2@bandit.labs.overthewire.org
 passwd=rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
