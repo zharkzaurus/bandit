@@ -1,5 +1,2 @@
-ls -a
-cd inhere
-cat .hidden
 ssh -p 2220 bandit4@bandit.labs.overthewire.org
 passwd=2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
