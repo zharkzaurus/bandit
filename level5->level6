@@ -1,0 +1,2 @@
+ssh -p 2220 bandit6@bandit.labs.overthewire.org
+passwd=P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
